@@ -2,11 +2,11 @@
 
 Add real time video, audio, and data to your app with LiveKit, the open-source, end-to-end WebRTC stack. Need inspiration? Check out these examples:
 
-## [Meet KITT](https://github.com/livekit-examples/kitt)
+## [Meet KITT](https://livekit.io/kitt)
 
-[<img width="600" alt="Demo of Meet-KITT in a VideoCall" src="https://user-images.githubusercontent.com/11357413/232517227-b1c94a75-8119-4e68-9b76-c69f9f89b3db.gif" />](https://github.com/livekit-examples/kitt)
+[<img width="600" alt="Demo of Meet-KITT in a VideoCall" src="https://user-images.githubusercontent.com/11357413/232517227-b1c94a75-8119-4e68-9b76-c69f9f89b3db.gif" />](https://livekit.io/kitt)
 
-KITT is a ChatGPT-powered AI that lives in a WebRTC conference call.
+KITT is a ChatGPT-powered AI that lives in a WebRTC conference call. [Learn more »](https://livekit.io/kitt)
 
 ## [Spatial Audio](https://github.com/livekit-examples/spatial-audio)
 
